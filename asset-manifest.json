@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/REST-API-React/static/css/main.25c22784.css",
+    "main.js": "/REST-API-React/static/js/main.49b3c12c.js",
+    "static/js/488.fe3c27c7.chunk.js": "/REST-API-React/static/js/488.fe3c27c7.chunk.js",
+    "static/media/Population.svg": "/REST-API-React/static/media/Population.008fe517664edfb85d524ad603e88c49.svg",
+    "static/media/Language.svg": "/REST-API-React/static/media/Language.47df76cdb210ed16409ce67593852185.svg",
+    "index.html": "/REST-API-React/index.html",
+    "main.25c22784.css.map": "/REST-API-React/static/css/main.25c22784.css.map",
+    "main.49b3c12c.js.map": "/REST-API-React/static/js/main.49b3c12c.js.map",
+    "488.fe3c27c7.chunk.js.map": "/REST-API-React/static/js/488.fe3c27c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25c22784.css",
+    "static/js/main.49b3c12c.js"
+  ]
+}
